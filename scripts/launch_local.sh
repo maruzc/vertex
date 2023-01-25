@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-PROJECT=<YOUR PROJECT ID>
+PROJECT=<YOUR PROJECT ID> aquí el nombre del proyecto
 REGION=us-central1
 QUERY="SELECT * FROM data_playground.transactions"
 

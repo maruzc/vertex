@@ -1,7 +1,7 @@
-variable "billing_account" {
-  description = "Billing account for the projects/resources"
-  type        = string
-}
+#variable "billing_account" {
+#  description = "Billing account for the projects/resources"
+#  type        = string
+#}
 
 variable "create_project" {
   description = "Set to false if your project already exists"
